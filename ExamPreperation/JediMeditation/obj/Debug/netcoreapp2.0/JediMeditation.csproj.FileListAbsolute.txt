@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\JediMeditation\bin\Debug\netcoreapp2.0\JediMeditation.deps.json
+C:\Users\user\source\repos\ExamPreperation\JediMeditation\bin\Debug\netcoreapp2.0\JediMeditation.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\JediMeditation\bin\Debug\netcoreapp2.0\JediMeditation.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\JediMeditation\bin\Debug\netcoreapp2.0\JediMeditation.dll
+C:\Users\user\source\repos\ExamPreperation\JediMeditation\bin\Debug\netcoreapp2.0\JediMeditation.pdb
+C:\Users\user\source\repos\ExamPreperation\JediMeditation\obj\Debug\netcoreapp2.0\JediMeditation.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ExamPreperation\JediMeditation\obj\Debug\netcoreapp2.0\JediMeditation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\JediMeditation\obj\Debug\netcoreapp2.0\JediMeditation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\JediMeditation\obj\Debug\netcoreapp2.0\JediMeditation.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\JediMeditation\obj\Debug\netcoreapp2.0\JediMeditation.dll
+C:\Users\user\source\repos\ExamPreperation\JediMeditation\obj\Debug\netcoreapp2.0\JediMeditation.pdb

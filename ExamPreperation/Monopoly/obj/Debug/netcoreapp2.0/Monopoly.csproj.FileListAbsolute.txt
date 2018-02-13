@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\Monopoly\bin\Debug\netcoreapp2.0\Monopoly.deps.json
+C:\Users\user\source\repos\ExamPreperation\Monopoly\bin\Debug\netcoreapp2.0\Monopoly.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\Monopoly\bin\Debug\netcoreapp2.0\Monopoly.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\Monopoly\bin\Debug\netcoreapp2.0\Monopoly.dll
+C:\Users\user\source\repos\ExamPreperation\Monopoly\bin\Debug\netcoreapp2.0\Monopoly.pdb
+C:\Users\user\source\repos\ExamPreperation\Monopoly\obj\Debug\netcoreapp2.0\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\Monopoly\obj\Debug\netcoreapp2.0\Monopoly.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\Monopoly\obj\Debug\netcoreapp2.0\Monopoly.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\Monopoly\obj\Debug\netcoreapp2.0\Monopoly.dll
+C:\Users\user\source\repos\ExamPreperation\Monopoly\obj\Debug\netcoreapp2.0\Monopoly.pdb
+C:\Users\user\source\repos\ExamPreperation\Monopoly\obj\Debug\netcoreapp2.0\Monopoly.csprojResolveAssemblyReference.cache

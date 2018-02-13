@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\StacksAndQueuesExercises\StacksAndQueuesExercises\bin\Debug\StacksAndQueuesExercises.exe.config
+C:\Users\user\source\repos\StacksAndQueuesExercises\StacksAndQueuesExercises\bin\Debug\StacksAndQueuesExercises.exe
+C:\Users\user\source\repos\StacksAndQueuesExercises\StacksAndQueuesExercises\bin\Debug\StacksAndQueuesExercises.pdb
+C:\Users\user\source\repos\StacksAndQueuesExercises\StacksAndQueuesExercises\obj\Debug\StacksAndQueuesExercises.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StacksAndQueuesExercises\StacksAndQueuesExercises\obj\Debug\StacksAndQueuesExercises.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StacksAndQueuesExercises\StacksAndQueuesExercises\obj\Debug\StacksAndQueuesExercises.exe
+C:\Users\user\source\repos\StacksAndQueuesExercises\StacksAndQueuesExercises\obj\Debug\StacksAndQueuesExercises.pdb

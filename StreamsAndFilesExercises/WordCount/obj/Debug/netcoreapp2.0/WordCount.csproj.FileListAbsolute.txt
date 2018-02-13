@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\StreamsAndFilesExercises\WordCount\bin\Debug\netcoreapp2.0\WordCount.deps.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\WordCount\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\WordCount\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.dev.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\WordCount\bin\Debug\netcoreapp2.0\WordCount.dll
+C:\Users\user\source\repos\StreamsAndFilesExercises\WordCount\bin\Debug\netcoreapp2.0\WordCount.pdb
+C:\Users\user\source\repos\StreamsAndFilesExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfo.cs
+C:\Users\user\source\repos\StreamsAndFilesExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.dll
+C:\Users\user\source\repos\StreamsAndFilesExercises\WordCount\obj\Debug\netcoreapp2.0\WordCount.pdb

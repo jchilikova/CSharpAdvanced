@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\StreamsAndFilesExercises\CopyBinaryFile\bin\Debug\netcoreapp2.0\CopyBinaryFile.deps.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\CopyBinaryFile\bin\Debug\netcoreapp2.0\CopyBinaryFile.runtimeconfig.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\CopyBinaryFile\bin\Debug\netcoreapp2.0\CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\CopyBinaryFile\bin\Debug\netcoreapp2.0\CopyBinaryFile.dll
+C:\Users\user\source\repos\StreamsAndFilesExercises\CopyBinaryFile\bin\Debug\netcoreapp2.0\CopyBinaryFile.pdb
+C:\Users\user\source\repos\StreamsAndFilesExercises\CopyBinaryFile\obj\Debug\netcoreapp2.0\CopyBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\CopyBinaryFile\obj\Debug\netcoreapp2.0\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\CopyBinaryFile\obj\Debug\netcoreapp2.0\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\CopyBinaryFile\obj\Debug\netcoreapp2.0\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\user\source\repos\StreamsAndFilesExercises\CopyBinaryFile\obj\Debug\netcoreapp2.0\CopyBinaryFile.dll
+C:\Users\user\source\repos\StreamsAndFilesExercises\CopyBinaryFile\obj\Debug\netcoreapp2.0\CopyBinaryFile.pdb

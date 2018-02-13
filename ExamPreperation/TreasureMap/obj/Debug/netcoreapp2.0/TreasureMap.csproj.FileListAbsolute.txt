@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\TreasureMap\bin\Debug\netcoreapp2.0\TreasureMap.deps.json
+C:\Users\user\source\repos\ExamPreperation\TreasureMap\bin\Debug\netcoreapp2.0\TreasureMap.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\TreasureMap\bin\Debug\netcoreapp2.0\TreasureMap.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\TreasureMap\bin\Debug\netcoreapp2.0\TreasureMap.dll
+C:\Users\user\source\repos\ExamPreperation\TreasureMap\bin\Debug\netcoreapp2.0\TreasureMap.pdb
+C:\Users\user\source\repos\ExamPreperation\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ExamPreperation\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.dll
+C:\Users\user\source\repos\ExamPreperation\TreasureMap\obj\Debug\netcoreapp2.0\TreasureMap.pdb

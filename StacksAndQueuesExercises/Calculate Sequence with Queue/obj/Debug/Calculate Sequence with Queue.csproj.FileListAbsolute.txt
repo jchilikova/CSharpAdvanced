@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\StacksAndQueuesExercises\Calculate Sequence with Queue\bin\Debug\Calculate Sequence with Queue.exe.config
+C:\Users\user\source\repos\StacksAndQueuesExercises\Calculate Sequence with Queue\bin\Debug\Calculate Sequence with Queue.exe
+C:\Users\user\source\repos\StacksAndQueuesExercises\Calculate Sequence with Queue\bin\Debug\Calculate Sequence with Queue.pdb
+C:\Users\user\source\repos\StacksAndQueuesExercises\Calculate Sequence with Queue\obj\Debug\Calculate Sequence with Queue.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StacksAndQueuesExercises\Calculate Sequence with Queue\obj\Debug\Calculate Sequence with Queue.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StacksAndQueuesExercises\Calculate Sequence with Queue\obj\Debug\Calculate Sequence with Queue.exe
+C:\Users\user\source\repos\StacksAndQueuesExercises\Calculate Sequence with Queue\obj\Debug\Calculate Sequence with Queue.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\GreedyTimes\bin\Debug\netcoreapp2.0\GreedyTimes.deps.json
+C:\Users\user\source\repos\ExamPreperation\GreedyTimes\bin\Debug\netcoreapp2.0\GreedyTimes.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\GreedyTimes\bin\Debug\netcoreapp2.0\GreedyTimes.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\GreedyTimes\bin\Debug\netcoreapp2.0\GreedyTimes.dll
+C:\Users\user\source\repos\ExamPreperation\GreedyTimes\bin\Debug\netcoreapp2.0\GreedyTimes.pdb
+C:\Users\user\source\repos\ExamPreperation\GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.dll
+C:\Users\user\source\repos\ExamPreperation\GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.pdb
+C:\Users\user\source\repos\ExamPreperation\GreedyTimes\obj\Debug\netcoreapp2.0\GreedyTimes.csprojResolveAssemblyReference.cache

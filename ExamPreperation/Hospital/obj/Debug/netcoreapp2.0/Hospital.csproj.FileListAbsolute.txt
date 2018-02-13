@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\Hospital\bin\Debug\netcoreapp2.0\Hospital.deps.json
+C:\Users\user\source\repos\ExamPreperation\Hospital\bin\Debug\netcoreapp2.0\Hospital.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\Hospital\bin\Debug\netcoreapp2.0\Hospital.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\Hospital\bin\Debug\netcoreapp2.0\Hospital.dll
+C:\Users\user\source\repos\ExamPreperation\Hospital\bin\Debug\netcoreapp2.0\Hospital.pdb
+C:\Users\user\source\repos\ExamPreperation\Hospital\obj\Debug\netcoreapp2.0\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ExamPreperation\Hospital\obj\Debug\netcoreapp2.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\Hospital\obj\Debug\netcoreapp2.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\Hospital\obj\Debug\netcoreapp2.0\Hospital.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\Hospital\obj\Debug\netcoreapp2.0\Hospital.dll
+C:\Users\user\source\repos\ExamPreperation\Hospital\obj\Debug\netcoreapp2.0\Hospital.pdb

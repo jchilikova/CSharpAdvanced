@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\NumberWars\bin\Debug\netcoreapp2.0\NumberWars.deps.json
+C:\Users\user\source\repos\ExamPreperation\NumberWars\bin\Debug\netcoreapp2.0\NumberWars.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\NumberWars\bin\Debug\netcoreapp2.0\NumberWars.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\NumberWars\bin\Debug\netcoreapp2.0\NumberWars.dll
+C:\Users\user\source\repos\ExamPreperation\NumberWars\bin\Debug\netcoreapp2.0\NumberWars.pdb
+C:\Users\user\source\repos\ExamPreperation\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ExamPreperation\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.dll
+C:\Users\user\source\repos\ExamPreperation\NumberWars\obj\Debug\netcoreapp2.0\NumberWars.pdb

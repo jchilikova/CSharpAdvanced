@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\JediCode-X\bin\Debug\netcoreapp2.0\JediCode-X.deps.json
+C:\Users\user\source\repos\ExamPreperation\JediCode-X\bin\Debug\netcoreapp2.0\JediCode-X.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\JediCode-X\bin\Debug\netcoreapp2.0\JediCode-X.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\JediCode-X\bin\Debug\netcoreapp2.0\JediCode-X.dll
+C:\Users\user\source\repos\ExamPreperation\JediCode-X\bin\Debug\netcoreapp2.0\JediCode-X.pdb
+C:\Users\user\source\repos\ExamPreperation\JediCode-X\obj\Debug\netcoreapp2.0\JediCode-X.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ExamPreperation\JediCode-X\obj\Debug\netcoreapp2.0\JediCode-X.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\JediCode-X\obj\Debug\netcoreapp2.0\JediCode-X.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\JediCode-X\obj\Debug\netcoreapp2.0\JediCode-X.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\JediCode-X\obj\Debug\netcoreapp2.0\JediCode-X.dll
+C:\Users\user\source\repos\ExamPreperation\JediCode-X\obj\Debug\netcoreapp2.0\JediCode-X.pdb

@@ -1,0 +1,10 @@
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\AppliedArithmetic\obj\Debug\netcoreapp2.0\AppliedArithmetic.csproj.CoreCompileInputs.cache
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\AppliedArithmetic\obj\Debug\netcoreapp2.0\AppliedArithmetic.AssemblyInfoInputs.cache
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\AppliedArithmetic\obj\Debug\netcoreapp2.0\AppliedArithmetic.AssemblyInfo.cs
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\AppliedArithmetic\bin\Debug\netcoreapp2.0\AppliedArithmetic.deps.json
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\AppliedArithmetic\bin\Debug\netcoreapp2.0\AppliedArithmetic.runtimeconfig.json
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\AppliedArithmetic\bin\Debug\netcoreapp2.0\AppliedArithmetic.runtimeconfig.dev.json
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\AppliedArithmetic\bin\Debug\netcoreapp2.0\AppliedArithmetic.dll
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\AppliedArithmetic\bin\Debug\netcoreapp2.0\AppliedArithmetic.pdb
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\AppliedArithmetic\obj\Debug\netcoreapp2.0\AppliedArithmetic.dll
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\AppliedArithmetic\obj\Debug\netcoreapp2.0\AppliedArithmetic.pdb

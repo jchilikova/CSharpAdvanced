@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\StacksAndQueuesExercises\BasicStackOperations\bin\Debug\BasicStackOperations.exe.config
+C:\Users\user\source\repos\StacksAndQueuesExercises\BasicStackOperations\bin\Debug\BasicStackOperations.exe
+C:\Users\user\source\repos\StacksAndQueuesExercises\BasicStackOperations\bin\Debug\BasicStackOperations.pdb
+C:\Users\user\source\repos\StacksAndQueuesExercises\BasicStackOperations\obj\Debug\BasicStackOperations.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StacksAndQueuesExercises\BasicStackOperations\obj\Debug\BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StacksAndQueuesExercises\BasicStackOperations\obj\Debug\BasicStackOperations.exe
+C:\Users\user\source\repos\StacksAndQueuesExercises\BasicStackOperations\obj\Debug\BasicStackOperations.pdb

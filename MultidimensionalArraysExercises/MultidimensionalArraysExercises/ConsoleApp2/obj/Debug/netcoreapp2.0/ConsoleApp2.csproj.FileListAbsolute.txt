@@ -1,0 +1,11 @@
+E:\Projects\CSharpAdvanced\MultidimensionalArraysExercises\MultidimensionalArraysExercises\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.deps.json
+E:\Projects\CSharpAdvanced\MultidimensionalArraysExercises\MultidimensionalArraysExercises\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.json
+E:\Projects\CSharpAdvanced\MultidimensionalArraysExercises\MultidimensionalArraysExercises\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.runtimeconfig.dev.json
+E:\Projects\CSharpAdvanced\MultidimensionalArraysExercises\MultidimensionalArraysExercises\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.dll
+E:\Projects\CSharpAdvanced\MultidimensionalArraysExercises\MultidimensionalArraysExercises\ConsoleApp2\bin\Debug\netcoreapp2.0\ConsoleApp2.pdb
+E:\Projects\CSharpAdvanced\MultidimensionalArraysExercises\MultidimensionalArraysExercises\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csprojResolveAssemblyReference.cache
+E:\Projects\CSharpAdvanced\MultidimensionalArraysExercises\MultidimensionalArraysExercises\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Projects\CSharpAdvanced\MultidimensionalArraysExercises\MultidimensionalArraysExercises\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\Projects\CSharpAdvanced\MultidimensionalArraysExercises\MultidimensionalArraysExercises\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.AssemblyInfo.cs
+E:\Projects\CSharpAdvanced\MultidimensionalArraysExercises\MultidimensionalArraysExercises\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.dll
+E:\Projects\CSharpAdvanced\MultidimensionalArraysExercises\MultidimensionalArraysExercises\ConsoleApp2\obj\Debug\netcoreapp2.0\ConsoleApp2.pdb

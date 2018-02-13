@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\CryptoMaster\bin\Debug\netcoreapp2.0\CryptoMaster.deps.json
+C:\Users\user\source\repos\ExamPreperation\CryptoMaster\bin\Debug\netcoreapp2.0\CryptoMaster.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\CryptoMaster\bin\Debug\netcoreapp2.0\CryptoMaster.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\CryptoMaster\bin\Debug\netcoreapp2.0\CryptoMaster.dll
+C:\Users\user\source\repos\ExamPreperation\CryptoMaster\bin\Debug\netcoreapp2.0\CryptoMaster.pdb
+C:\Users\user\source\repos\ExamPreperation\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.dll
+C:\Users\user\source\repos\ExamPreperation\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.pdb
+C:\Users\user\source\repos\ExamPreperation\CryptoMaster\obj\Debug\netcoreapp2.0\CryptoMaster.csprojResolveAssemblyReference.cache

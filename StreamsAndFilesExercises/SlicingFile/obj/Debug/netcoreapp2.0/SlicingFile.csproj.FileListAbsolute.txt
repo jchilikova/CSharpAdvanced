@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\StreamsAndFilesExercises\SlicingFile\bin\Debug\netcoreapp2.0\SlicingFile.deps.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\SlicingFile\bin\Debug\netcoreapp2.0\SlicingFile.runtimeconfig.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\SlicingFile\bin\Debug\netcoreapp2.0\SlicingFile.runtimeconfig.dev.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\SlicingFile\bin\Debug\netcoreapp2.0\SlicingFile.dll
+C:\Users\user\source\repos\StreamsAndFilesExercises\SlicingFile\bin\Debug\netcoreapp2.0\SlicingFile.pdb
+C:\Users\user\source\repos\StreamsAndFilesExercises\SlicingFile\obj\Debug\netcoreapp2.0\SlicingFile.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\SlicingFile\obj\Debug\netcoreapp2.0\SlicingFile.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\SlicingFile\obj\Debug\netcoreapp2.0\SlicingFile.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\SlicingFile\obj\Debug\netcoreapp2.0\SlicingFile.AssemblyInfo.cs
+C:\Users\user\source\repos\StreamsAndFilesExercises\SlicingFile\obj\Debug\netcoreapp2.0\SlicingFile.dll
+C:\Users\user\source\repos\StreamsAndFilesExercises\SlicingFile\obj\Debug\netcoreapp2.0\SlicingFile.pdb

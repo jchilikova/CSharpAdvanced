@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\StreamsAndFilesExercises\OddLines\bin\Debug\netcoreapp2.0\OddLines.deps.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\OddLines\bin\Debug\netcoreapp2.0\OddLines.runtimeconfig.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\OddLines\bin\Debug\netcoreapp2.0\OddLines.runtimeconfig.dev.json
+C:\Users\user\source\repos\StreamsAndFilesExercises\OddLines\bin\Debug\netcoreapp2.0\OddLines.dll
+C:\Users\user\source\repos\StreamsAndFilesExercises\OddLines\bin\Debug\netcoreapp2.0\OddLines.pdb
+C:\Users\user\source\repos\StreamsAndFilesExercises\OddLines\obj\Debug\netcoreapp2.0\OddLines.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\OddLines\obj\Debug\netcoreapp2.0\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\OddLines\obj\Debug\netcoreapp2.0\OddLines.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StreamsAndFilesExercises\OddLines\obj\Debug\netcoreapp2.0\OddLines.AssemblyInfo.cs
+C:\Users\user\source\repos\StreamsAndFilesExercises\OddLines\obj\Debug\netcoreapp2.0\OddLines.dll
+C:\Users\user\source\repos\StreamsAndFilesExercises\OddLines\obj\Debug\netcoreapp2.0\OddLines.pdb

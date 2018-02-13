@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\CubicArtillerty\bin\Debug\netcoreapp2.0\CubicArtillery.deps.json
+C:\Users\user\source\repos\ExamPreperation\CubicArtillerty\bin\Debug\netcoreapp2.0\CubicArtillery.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\CubicArtillerty\bin\Debug\netcoreapp2.0\CubicArtillery.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\CubicArtillerty\bin\Debug\netcoreapp2.0\CubicArtillery.dll
+C:\Users\user\source\repos\ExamPreperation\CubicArtillerty\bin\Debug\netcoreapp2.0\CubicArtillery.pdb
+C:\Users\user\source\repos\ExamPreperation\CubicArtillerty\obj\Debug\netcoreapp2.0\CubicArtillery.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\CubicArtillerty\obj\Debug\netcoreapp2.0\CubicArtillery.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\CubicArtillerty\obj\Debug\netcoreapp2.0\CubicArtillery.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\CubicArtillerty\obj\Debug\netcoreapp2.0\CubicArtillery.dll
+C:\Users\user\source\repos\ExamPreperation\CubicArtillerty\obj\Debug\netcoreapp2.0\CubicArtillery.pdb
+C:\Users\user\source\repos\ExamPreperation\CubicArtillerty\obj\Debug\netcoreapp2.0\CubicArtillery.csprojResolveAssemblyReference.cache

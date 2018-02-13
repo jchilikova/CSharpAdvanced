@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\Regeh\bin\Debug\netcoreapp2.0\Regeh.deps.json
+C:\Users\user\source\repos\ExamPreperation\Regeh\bin\Debug\netcoreapp2.0\Regeh.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\Regeh\bin\Debug\netcoreapp2.0\Regeh.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\Regeh\bin\Debug\netcoreapp2.0\Regeh.dll
+C:\Users\user\source\repos\ExamPreperation\Regeh\bin\Debug\netcoreapp2.0\Regeh.pdb
+C:\Users\user\source\repos\ExamPreperation\Regeh\obj\Debug\netcoreapp2.0\Regeh.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ExamPreperation\Regeh\obj\Debug\netcoreapp2.0\Regeh.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\Regeh\obj\Debug\netcoreapp2.0\Regeh.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\Regeh\obj\Debug\netcoreapp2.0\Regeh.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\Regeh\obj\Debug\netcoreapp2.0\Regeh.dll
+C:\Users\user\source\repos\ExamPreperation\Regeh\obj\Debug\netcoreapp2.0\Regeh.pdb

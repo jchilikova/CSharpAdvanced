@@ -1,0 +1,11 @@
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.deps.json
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.runtimeconfig.json
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.runtimeconfig.dev.json
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.dll
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\ActionPoint\bin\Debug\netcoreapp2.0\ActionPoint.pdb
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.csprojResolveAssemblyReference.cache
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.csproj.CoreCompileInputs.cache
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.AssemblyInfoInputs.cache
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.AssemblyInfo.cs
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.dll
+E:\Projects\CSharpAdvanced\FunctionalProgrammingExercises\ActionPoint\obj\Debug\netcoreapp2.0\ActionPoint.pdb

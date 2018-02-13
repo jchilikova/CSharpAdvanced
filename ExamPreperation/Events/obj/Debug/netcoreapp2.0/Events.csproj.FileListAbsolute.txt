@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\Events\bin\Debug\netcoreapp2.0\Events.deps.json
+C:\Users\user\source\repos\ExamPreperation\Events\bin\Debug\netcoreapp2.0\Events.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\Events\bin\Debug\netcoreapp2.0\Events.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\Events\bin\Debug\netcoreapp2.0\Events.dll
+C:\Users\user\source\repos\ExamPreperation\Events\bin\Debug\netcoreapp2.0\Events.pdb
+C:\Users\user\source\repos\ExamPreperation\Events\obj\Debug\netcoreapp2.0\Events.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ExamPreperation\Events\obj\Debug\netcoreapp2.0\Events.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\Events\obj\Debug\netcoreapp2.0\Events.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\Events\obj\Debug\netcoreapp2.0\Events.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\Events\obj\Debug\netcoreapp2.0\Events.dll
+C:\Users\user\source\repos\ExamPreperation\Events\obj\Debug\netcoreapp2.0\Events.pdb

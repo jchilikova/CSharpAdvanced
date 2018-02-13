@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\StacksAndQueuesExercises\MaxElement\bin\Debug\MaxElement.exe.config
+C:\Users\user\source\repos\StacksAndQueuesExercises\MaxElement\bin\Debug\MaxElement.exe
+C:\Users\user\source\repos\StacksAndQueuesExercises\MaxElement\bin\Debug\MaxElement.pdb
+C:\Users\user\source\repos\StacksAndQueuesExercises\MaxElement\obj\Debug\MaxElement.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StacksAndQueuesExercises\MaxElement\obj\Debug\MaxElement.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StacksAndQueuesExercises\MaxElement\obj\Debug\MaxElement.exe
+C:\Users\user\source\repos\StacksAndQueuesExercises\MaxElement\obj\Debug\MaxElement.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.deps.json
+C:\Users\user\source\repos\ExamPreperation\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.dll
+C:\Users\user\source\repos\ExamPreperation\JediGalaxy\bin\Debug\netcoreapp2.0\JediGalaxy.pdb
+C:\Users\user\source\repos\ExamPreperation\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ExamPreperation\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.dll
+C:\Users\user\source\repos\ExamPreperation\JediGalaxy\obj\Debug\netcoreapp2.0\JediGalaxy.pdb

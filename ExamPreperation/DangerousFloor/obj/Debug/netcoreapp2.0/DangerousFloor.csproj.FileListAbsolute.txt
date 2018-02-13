@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\DangerousFloor\bin\Debug\netcoreapp2.0\DangerousFloor.deps.json
+C:\Users\user\source\repos\ExamPreperation\DangerousFloor\bin\Debug\netcoreapp2.0\DangerousFloor.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\DangerousFloor\bin\Debug\netcoreapp2.0\DangerousFloor.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\DangerousFloor\bin\Debug\netcoreapp2.0\DangerousFloor.dll
+C:\Users\user\source\repos\ExamPreperation\DangerousFloor\bin\Debug\netcoreapp2.0\DangerousFloor.pdb
+C:\Users\user\source\repos\ExamPreperation\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.dll
+C:\Users\user\source\repos\ExamPreperation\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.pdb
+C:\Users\user\source\repos\ExamPreperation\DangerousFloor\obj\Debug\netcoreapp2.0\DangerousFloor.csprojResolveAssemblyReference.cache

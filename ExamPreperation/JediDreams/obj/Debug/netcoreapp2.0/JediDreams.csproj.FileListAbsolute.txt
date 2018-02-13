@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ExamPreperation\JediDreams\bin\Debug\netcoreapp2.0\JediDreams.deps.json
+C:\Users\user\source\repos\ExamPreperation\JediDreams\bin\Debug\netcoreapp2.0\JediDreams.runtimeconfig.json
+C:\Users\user\source\repos\ExamPreperation\JediDreams\bin\Debug\netcoreapp2.0\JediDreams.runtimeconfig.dev.json
+C:\Users\user\source\repos\ExamPreperation\JediDreams\bin\Debug\netcoreapp2.0\JediDreams.dll
+C:\Users\user\source\repos\ExamPreperation\JediDreams\bin\Debug\netcoreapp2.0\JediDreams.pdb
+C:\Users\user\source\repos\ExamPreperation\JediDreams\obj\Debug\netcoreapp2.0\JediDreams.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ExamPreperation\JediDreams\obj\Debug\netcoreapp2.0\JediDreams.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamPreperation\JediDreams\obj\Debug\netcoreapp2.0\JediDreams.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamPreperation\JediDreams\obj\Debug\netcoreapp2.0\JediDreams.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamPreperation\JediDreams\obj\Debug\netcoreapp2.0\JediDreams.dll
+C:\Users\user\source\repos\ExamPreperation\JediDreams\obj\Debug\netcoreapp2.0\JediDreams.pdb

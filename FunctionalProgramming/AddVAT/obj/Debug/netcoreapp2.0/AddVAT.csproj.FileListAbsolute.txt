@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.deps.json
+C:\Users\user\source\repos\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.runtimeconfig.json
+C:\Users\user\source\repos\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.runtimeconfig.dev.json
+C:\Users\user\source\repos\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.dll
+C:\Users\user\source\repos\FunctionalProgramming\AddVAT\bin\Debug\netcoreapp2.0\AddVAT.pdb
+C:\Users\user\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.AssemblyInfo.cs
+C:\Users\user\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.dll
+C:\Users\user\source\repos\FunctionalProgramming\AddVAT\obj\Debug\netcoreapp2.0\AddVAT.pdb
